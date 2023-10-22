@@ -30,3 +30,13 @@ public class Cylinder extends Circle {
         return getArea() * height;
     }
 }
+{
+    public class Cilns{
+        private double height;
+        public cynlender(){
+            super();
+            height = 1.0;
+        }
+        
+    }
+        }   
